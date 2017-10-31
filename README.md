@@ -8,3 +8,7 @@ My family likes playing dominos but standing them on edge to keep them private i
 ## Equipment Holder
 
 An equipment holding bracket for my 29g aquarium. [View on Thingiverse](https://www.thingiverse.com/thing:2512549)
+
+## Fishtank corner brackets
+
+An improved version of the Equipment Holder, these are brackets which fit snugly onto the corners of a 29g aquarium. [View on Thingiverse](https://www.thingiverse.com/thing:xxxxxxx)
