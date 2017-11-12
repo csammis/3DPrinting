@@ -12,3 +12,7 @@ An equipment holding bracket for my 29g aquarium. [View on Thingiverse](https://
 ## Fishtank corner brackets
 
 An improved version of the Equipment Holder, these are brackets which fit snugly onto the corners of a 29g aquarium. [View on Thingiverse](https://www.thingiverse.com/thing:2616522)
+
+## Settlers of Catan
+
+A basic drop-in replacement for the flimsy ocean borders that come with the Settlers of Catan base game and its 5-6 player expansion. [View on Thingiverse](https://www.thingiverse.com/thing:2641629)
